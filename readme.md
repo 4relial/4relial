@@ -1,5 +1,5 @@
 ## Hello ✨
-My name is M Ilham Ari Pahmi, I am a Backend Developer. 
+My name is M Ilham Ari Pahmi, I am a Fullstack Developer. 
 
 
 ## Tech Stack ✨
