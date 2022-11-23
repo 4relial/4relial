@@ -7,7 +7,7 @@ My name is M Ilham Ari Pahmi, I just an apple.
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express Js](https://img.shields.io/badge/Express.Js-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express Js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## Contact Me 📞
 [![Linkedin Badge](https://img.shields.io/badge/-M%20Ilham%20Ari%20Pahmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-ilham-ari-pahmi-321382227/)](https://www.linkedin.com/in/m-ilham-ari-pahmi-321382227/)
