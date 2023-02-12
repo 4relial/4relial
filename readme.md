@@ -9,6 +9,7 @@ My name is M Ilham Ari Pahmi, I just an apple.
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express Js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Contact Me 📞
 [![Linkedin Badge](https://img.shields.io/badge/-M%20Ilham%20Ari%20Pahmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-ilham-ari-pahmi-321382227/)](https://www.linkedin.com/in/m-ilham-ari-pahmi-321382227/)
