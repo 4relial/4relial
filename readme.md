@@ -1,5 +1,5 @@
 ## Hello 👋
-My name is M Ilham Ari Pahmi, I just an apple. 
+I just an apple. 
 
 
 ## Skill Stack ✨
