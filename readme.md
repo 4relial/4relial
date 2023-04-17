@@ -15,8 +15,5 @@ I just an apple.
 [![Linkedin Badge](https://img.shields.io/badge/-M%20Ilham%20Ari%20Pahmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-ilham-ari-pahmi-321382227/)](https://www.linkedin.com/in/m-ilham-ari-pahmi-321382227/)
 [![Gmail Badge](https://img.shields.io/badge/-ilham.a.pahmi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilham.a.pahmi@gmail.com)](mailto:ilham.a.pahmi@gmail.com)
 
-<!--
 ## GitHub Stats 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subekti404dev&show_icons=true&theme=dracula)
-
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4relial&show_icons=true&theme=dracula)
