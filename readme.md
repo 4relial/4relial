@@ -1,7 +1,6 @@
 ## Hello 👋
 My name is M. Ilham Ari Fahmi.
-I'm a FullStack Developer.
-I currently work at PT. Permata Widia Indonesia.
+I'm a FullStack Developer and currently work at PT. Permata Widia Indonesia.
 
 
 ## Skill Stack ✨
