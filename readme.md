@@ -1,6 +1,6 @@
 ## Hello 👋
 My name is M. Ilham Ari Fahmi.
-I'm a FullStack Developer and currently work at Duduweb.id
+I'm a FullStack Developer
 
 
 ## Skill Stack ✨
