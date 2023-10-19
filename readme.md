@@ -1,6 +1,6 @@
 ## Hello 👋
 My name is M. Ilham Ari Fahmi.
-I'm a FullStack Developer
+I'm a Backend Developer
 
 
 ## Skill Stack ✨
