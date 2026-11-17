@@ -19,14 +19,3 @@ I'm currently doing absolutely nothing.
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-<!-- ## GitHub Stats 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4relial&show_icons=true&theme=dracula)
- -->
- ### Stats 📈
- <p align="left">
-<a href="https://github.com/4relial">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=4relial&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=4relial&layout=compact&langs_count=8&theme=onedark"/>
-</a>
-</p>
